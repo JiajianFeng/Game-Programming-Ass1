@@ -6,7 +6,7 @@ using System;
 
 namespace Game1
 {
-    //ohoh
+    //new sub branch
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
