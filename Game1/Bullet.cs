@@ -12,7 +12,7 @@ namespace Game1
 {
     class Bullet : BasicModel
     {
-
+        //MMMMMMMMERGE
         Vector3 traget;
         Vector3 velocity;
         Matrix scale = Matrix.CreateScale(0.05f);
