@@ -12,6 +12,8 @@ namespace Game1
     /// </summary>
     public class Game1 : Game
     {
+
+        //changed by steve
         public GraphicsDevice device { get; protected set; }
         public Camera camera{get; protected set;}
         public Random rnd {get;protected set; }
