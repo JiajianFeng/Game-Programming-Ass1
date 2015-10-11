@@ -9,6 +9,7 @@ namespace Game1
 {
     class BasicModel
     {
+        //change for steve
         public Model model { get; protected set; }
        public Matrix world = Matrix.Identity;
         public BasicModel(Model model) {
